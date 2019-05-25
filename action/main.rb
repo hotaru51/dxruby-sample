@@ -3,6 +3,7 @@ require './Character.rb'
 
 Window.width = 640
 Window.height = 480
+Window.fps = 30
 
 characters = [Character.new()]
 
